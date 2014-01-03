@@ -9,3 +9,9 @@ variable	    - Is something containing data.
 
  %s 			-
  %r				-
+
+ Functions:
+ len()
+ str()
+
+ test for authy
