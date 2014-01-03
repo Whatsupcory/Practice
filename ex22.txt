@@ -1,3 +1,11 @@
- string 	    - A string can contain letters, numbers, and symbols. Strings need to be within quotes.
- string method  - Let you perform specific tasks for strings.
- variable	    - Is something containing data. 
+ 
+len()			- method that counts characters of a string.
+methods			- The str() method converts non-strings into strings
+string 	    	- A string can contain letters, numbers, and symbols. Strings need to be within quotes.
+string method  	- Let you perform specific tasks for strings.
+variable	    - Is something containing data. 
+
+
+
+ %s 			-
+ %r				-
