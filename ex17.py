@@ -9,9 +9,9 @@ print "Copying from %s to %s" % (from_file, to_file)
 in_file = open(from_file)
 indata = in_file.read()
 
-print "The input file is %d bytes long" % len(indata)  # len(indata) prints the size of file in bytes.
+print "The input file is %d bytes long" % len(indata)  # len(indata) prints the size of file in bytes. It gets the length of the string that you pass to it and then returns that as a number. 
 
-print "Does the output file exist? %r" % exists(to_file)
+print "Does the output file exist? %r" % exists(to_file) # returns True if a file exists.
 print "Ready, hit RETURN to continue, CTRL-C to abort."
 raw_input()
 
