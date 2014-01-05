@@ -13,5 +13,3 @@ variable	    - Is something containing data.
  Functions:
  len()
  str()
-
- test for authy
